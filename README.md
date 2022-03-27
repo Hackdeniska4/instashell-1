@@ -33,3 +33,5 @@ sudo ./install.sh
 ### How it works?
 
 Script uses an Android ApkSignature to perform authentication in addition using TOR and rotating the ip address to avoid blocking. 
+pkg install tor -y
+tor
